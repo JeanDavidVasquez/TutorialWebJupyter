@@ -1,11 +1,17 @@
-# Welcome to your Jupyter Book
+# INFORMACION PERSONAL
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
+Nombre:Jean David Vasquez Yaruqui
+Edad: 21 años
+Carrera: Computación
+Ciclo: 6
+Nacionalidad: Ecuador
+Correro: jdvasquz13@utpl.edu.ec
+Estado Civil: Soltero
+Ocupación: Estudiante
+Registro Laboral:
+    Vendedor - Estanteria Metalica
+    Comerciante
+    Cajero - SuperMaxi
 
 ```{tableofcontents}
 ```
