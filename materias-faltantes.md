@@ -1,4 +1,4 @@
-# Materias No Faltantes
+# Materias Faltantes
 
 ## Ciclo 6
 

@@ -6,7 +6,7 @@
 - **Carrera:** Computación  
 - **Ciclo:** 6  
 - **Nacionalidad:** Ecuador  
-- **Correo:** [jdvasquz13@utpl.edu.ec] **
+- **Correo:** [jdvasquz13@utpl.edu.ec]
 - **Estado Civil:** Soltero  
 - **Ocupación:** Estudiante  
 
